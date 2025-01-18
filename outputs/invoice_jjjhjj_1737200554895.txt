@@ -1,0 +1,12 @@
+
+Invoice for jjjhjj
+
+
+Product: rnemr
+Quantity: 9
+Price: $50.00
+Subtotal: $450.00
+
+
+Total: $450.00
+    
